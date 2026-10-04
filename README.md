@@ -24,6 +24,7 @@
     Dependencies: none beyond the C standard library and POSIX APIs
 
 How To Compile & Run??
+---------------------
 Open terminal in your linux/mac machine or cmd in windows and check gcc version if installed by typing
 gcc --version and then type [[[ gcc typing_speed_test.c -o typing_speed_test && ./typing_speed_test ]]] .
 
